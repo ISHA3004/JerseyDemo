@@ -1,0 +1,14 @@
+com\mycompany\demojersey\User.class
+com\mycompany\demojersey\AdminDAO.class
+com\mycompany\demojersey\ExternalDTO.class
+com\mycompany\demojersey\MyResource.class
+com\mycompany\demojersey\Customer.class
+com\mycompany\demojersey\controller\AdminController.class
+com\mycompany\demojersey\ExternalService.class
+com\mycompany\demojersey\ApplicationMasterDTO.class
+com\mycompany\demojersey\controller\RMController.class
+com\mycompany\demojersey\CustomerDAO.class
+com\mycompany\demojersey\ExternalDAO.class
+com\mycompany\demojersey\controller\ExternalController.class
+com\mycompany\demojersey\Admin.class
+com\mycompany\demojersey\PanKraDTO.class
